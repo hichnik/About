@@ -33,7 +33,10 @@ I'm Angular frontend developer of (url)... I'm currently working on (url)..., a 
 https://github.com/ivan-kleshnin
 
 ---------
-CSS questions to translate
-https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/en/css-questions.md
-JS Questions
-https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/en/javascript-questions.md
+Nodejs Stream handbook
+- [NodeJS Streams](https://github.com/substack/stream-handbook)\
+- [NodeJS Args parse](https://github.com/substack/minimist)\
+Author: https://github.com/substack/stream-handbook
+---------
+CSS questions to translate https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/en/css-questions.md \
+JS Questions https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/en/javascript-questions.md
