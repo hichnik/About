@@ -30,7 +30,7 @@ I'm Angular frontend developer of (url)... I'm currently working on (url)..., a 
 
 ----------
 
-[Vercel Deployment](https://github.com/hichnik/github-readme-stats#deploy-on-your-own-vercel-instance)
+Run apps on the cloud - [Vercel Deployment](https://github.com/hichnik/github-readme-stats#deploy-on-your-own-vercel-instance)
 
 ----------
 
