@@ -1,6 +1,8 @@
 # :rocket: About me 
 ### Repository about me
 
+This repository will contain my short CV, past work,  future plans and much more...
+
 #### Github dynamic stats
 [![Hichnik's github stats](https://github-readme-stats.vercel.app/api?username=hichnik&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/hichnik/github-readme-stats)
 Options: &hide=stars,commits,prs,issues,contribs
