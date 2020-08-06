@@ -34,7 +34,7 @@ https://github.com/ivan-kleshnin
 
 ---------
 Nodejs Stream handbook
-- [NodeJS Streams](https://github.com/substack/stream-handbook)\
+- [NodeJS Streams](https://github.com/substack/stream-handbook)
 - [NodeJS Args parse](https://github.com/substack/minimist)\
 Author: https://github.com/substack/stream-handbook
 ---------
