@@ -12,7 +12,7 @@ Options: &hide=stars,commits,prs,issues,contribs
 
 ---
 #### Github stats deployed on my server
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.didkovskyi.vercel.app/api?username=hichnik&show_icons=true&include_all_commits=true&theme=radical)
 ---
 
 
