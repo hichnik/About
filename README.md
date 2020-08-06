@@ -1,6 +1,6 @@
 # :rocket: about me 
 Repository about me
-[![Hichnik's github stats](https://github-readme-stats.vercel.app/api?username=hichnik&count_private=true&show_icons=true)](https://github.com/hichnik/github-readme-stats)
+[![Hichnik's github stats](https://github-readme-stats.vercel.app/api?username=hichnik&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/hichnik/github-readme-stats)
 Options: &hide=stars,commits,prs,issues,contribs
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hichnik&repo=angular)](https://github.com/hichnik/angular)
