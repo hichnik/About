@@ -26,3 +26,5 @@ https://github.com/ivan-kleshnin
 ---------
 CSS questions to translate
 https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/en/css-questions.md
+JS Questions
+https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/en/javascript-questions.md
