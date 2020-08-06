@@ -35,6 +35,7 @@ https://github.com/ivan-kleshnin
 ---------
 Nodejs Stream handbook
 - [NodeJS Streams](https://github.com/substack/stream-handbook)
+- [NodeJS MySQL Client](https://github.com/mysqljs/mysql)
 - [NodeJS Args parse](https://github.com/substack/minimist)\
 Author: https://github.com/substack/stream-handbook
 ---------
