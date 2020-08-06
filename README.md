@@ -37,7 +37,7 @@ Nodejs Stream handbook
 - [NodeJS Streams](https://github.com/substack/stream-handbook)
 - [NodeJS MySQL Client](https://github.com/mysqljs/mysql)
 - [NodeJS Args parse](https://github.com/substack/minimist)\
-Author: https://github.com/substack/stream-handbook
+Author: https://github.com/substack
 ---------
 CSS questions to translate https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/en/css-questions.md \
 JS Questions https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/en/javascript-questions.md
