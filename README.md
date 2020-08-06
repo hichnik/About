@@ -27,9 +27,13 @@ I'm Angular frontend developer of (url)... I'm currently working on (url)..., a 
 - [Twitter](https://twitter.com/didkovskyi) - almost empty
 - Just drop me email: y.didkovskyi@gmail.com
 - Call me: +380503827056
+
 ----------
+
 [Vercel Deployment](https://github.com/hichnik/github-readme-stats#deploy-on-your-own-vercel-instance)
+
 ----------
+
 #### Well designed github account
 https://github.com/ivan-kleshnin
 
