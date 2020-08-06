@@ -17,7 +17,16 @@ Options: &hide=stars,commits,prs,issues,contribs
 ![Anurag's github stats](https://github-readme-stats.didkovskyi.vercel.app/api?username=hichnik&show_icons=true&include_all_commits=true&theme=radical)
 ---
 
+I'm Angular frontend developer of (url)... I'm currently working on (url)..., a ... solution.
 
+### You can find me here:
+
+- [LinkedIn](https://www.linkedin.com/in/didkovskyi/)
+- [Facebook](https://facebook.com/iurii.didkovskyi)
+- [Github](https://github.com/hichnik)
+- [Twitter](https://twitter.com/didkovskyi) - almost empty
+- Just drop me email: y.didkovskyi@gmail.com
+- Call me: +380503827056
 
 ----------
 #### Well designed github account
